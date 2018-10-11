@@ -71,9 +71,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(31, 170);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(36, 17);
+            this.label3.Size = new System.Drawing.Size(40, 17);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Số c";
+            this.label3.Text = "Số Q";
             // 
             // textBox1
             // 
